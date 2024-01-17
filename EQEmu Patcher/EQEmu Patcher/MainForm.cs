@@ -310,6 +310,7 @@ namespace EQEmu_Patcher
                         break;
                     case "240C80800112ADA825C146D7349CE85B":
                     case "A057A23F030BAA1C4910323B131407105ACAD14D": //This is a custom ROF2 from a torrent download
+                    case "F37902933857521A657AC5583C6E76FC":
                         currentVersion = VersionTypes.Rain_Of_Fear_2;
                         splashLogo.Image = Properties.Resources.rof;
                         break;
